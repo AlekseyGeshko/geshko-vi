@@ -1,0 +1,9 @@
+total 28K
+drwxrwxr-x 3 aleksey_geshko aleksey_geshko 4,0K фев  9 21:01 ./
+drwxrwxr-x 3 aleksey_geshko aleksey_geshko 4,0K фев  9 20:57 ../
+-rw-rw-r-- 1 aleksey_geshko aleksey_geshko 1,1K фев  9 21:00 config.txt
+-rw-rw-r-- 1 aleksey_geshko aleksey_geshko  179 фев  9 20:58 first.txt
+drwxrwxr-x 8 aleksey_geshko aleksey_geshko 4,0K фев  9 21:01 .git/
+-rw-rw-r-- 1 aleksey_geshko aleksey_geshko    0 фев  9 21:01 ls.txt
+-rw-rw-r-- 1 aleksey_geshko aleksey_geshko   11 фев  9 20:57 README.md
+-rw-rw-r-- 1 aleksey_geshko aleksey_geshko  199 фев  9 20:58 status.txt
